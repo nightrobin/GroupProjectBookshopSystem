@@ -17,7 +17,7 @@ public class Main {
 
 
         JFrame frame = new JFrame();
-        frame.setSize(480, 320);
+        frame.setSize(800, 600);
 
         JButton addBookBtn = new JButton("Customer");
         addBookBtn.setBounds(20, 20, 100, 20);
